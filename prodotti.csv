@@ -1,0 +1,33 @@
+IdProdotto,Prodotto,Descrizione,Costo,Prezzo,Categoria,Sottocategoria
+1,iPhone Pro,iPhone Pro per tutte le esigenze,49.76,52.21,Elettronica,Smartphone
+2,Galaxy S24,Galaxy S24 professionale per uso quotidiano,22.14,26.65,Elettronica,Smartphone
+3,Pixel 8,Pixel 8 professionale per uso quotidiano,52.37,70.42,Elettronica,Smartphone
+4,Redmi Note,Redmi Note professionale per uso quotidiano,46.33,48.9,Elettronica,Smartphone
+5,MacBook Air,Premium MacBook Air di alta qualità,20.3,31.4,Elettronica,Laptop
+6,Dell XPS,Dell XPS essenziale per ogni casa,44.29,59.18,Elettronica,Laptop
+7,ThinkPad X1,Premium ThinkPad X1 di alta qualità,20.43,33.04,Elettronica,Laptop
+8,Chromebook,Chromebook essenziale per ogni casa,58.12,62.98,Elettronica,Laptop
+9,Mouse wireless,Mouse wireless innovativo con caratteristiche avanzate,28.82,33.62,Elettronica,Accessori
+10,Tastiera meccanica,Tastiera meccanica innovativo con caratteristiche avanzate,12.15,20.990000000000002,Elettronica,Accessori
+11,Powerbank,Premium Powerbank di alta qualità,64.32,77.19,Elettronica,Accessori
+12,Hub USB-C,Hub USB-C essenziale per ogni casa,56.08,67.73,Elettronica,Accessori
+13,Cuffie Bluetooth,Cuffie Bluetooth innovativo con caratteristiche avanzate,10.52,17.8,Elettronica,Audio
+14,Auricolari TWS,Premium Auricolari TWS di alta qualità,45.41,60.08,Elettronica,Audio
+15,Soundbar,Soundbar professionale per uso quotidiano,51.29,67.21,Elettronica,Audio
+16,Speaker portatile,Speaker portatile essenziale per ogni casa,64.87,82.47,Elettronica,Audio
+17,Camicia Oxford,Camicia Oxford innovativo con caratteristiche avanzate,24.46,37.9,Abbigliamento,Uomo
+18,Jeans slim,Jeans slim per tutte le esigenze,16.39,24.78,Abbigliamento,Uomo
+19,Giacca casual,Giacca casual professionale per uso quotidiano,54.13,68.43,Abbigliamento,Uomo
+20,Maglione lana,Maglione lana con un ottimo rapporto qualità-prezzo,47.64,52.72,Abbigliamento,Uomo
+21,Abito estivo,Abito estivo con un ottimo rapporto qualità-prezzo,16.44,25.27,Abbigliamento,Donna
+22,Gonna plissettata,Premium Gonna plissettata di alta qualità,52.92,70.09,Abbigliamento,Donna
+23,Blazer elegante,Blazer elegante innovativo con caratteristiche avanzate,21.03,23.61,Abbigliamento,Donna
+24,Cardigan,Cardigan innovativo con caratteristiche avanzate,33.08,36.26,Abbigliamento,Donna
+25,T-shirt grafica,Il miglior T-shirt grafica sul mercato,19.88,30.86,Abbigliamento,Bambino
+26,Pantaloni cargo,Pantaloni cargo per tutte le esigenze,15.0,19.50,Abbigliamento,Bambino
+27,Felpa con cappuccio,Felpa con cappuccio essenziale per ogni casa,57.29,67.0,Abbigliamento,Bambino
+28,Pigiama,Pigiama dal design moderno ed elegante,30.34,50.29,Abbigliamento,Bambino
+29,Leggings fitness,Premium Leggings fitness di alta qualità,40.67,44.31,Abbigliamento,Sportivo
+30,T-shirt tecnica,T-shirt tecnica dal design moderno ed elegante,65.28,70.03,Abbigliamento,Sportivo
+31,Scarpe running,Scarpe running professionale per uso quotidiano,60.45,70.05,Abbigliamento,Sportivo
+32,Giacca antipioggia,Il miglior Giacca antipioggia sul mercato,31.93,44.66,Abbigliamento,Sportivo
